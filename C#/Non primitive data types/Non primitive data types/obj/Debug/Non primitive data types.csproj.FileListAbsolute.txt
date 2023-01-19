@@ -1,0 +1,8 @@
+D:\New folder (2)\Non primitive data types\Non primitive data types\obj\Debug\Non primitive data types.csproj.AssemblyReference.cache
+D:\New folder (2)\Non primitive data types\Non primitive data types\obj\Debug\Non primitive data types.csproj.SuggestedBindingRedirects.cache
+D:\New folder (2)\Non primitive data types\Non primitive data types\obj\Debug\Non primitive data types.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Non primitive data types\Non primitive data types\bin\Debug\Non primitive data types.exe.config
+D:\New folder (2)\Non primitive data types\Non primitive data types\bin\Debug\Non primitive data types.exe
+D:\New folder (2)\Non primitive data types\Non primitive data types\bin\Debug\Non primitive data types.pdb
+D:\New folder (2)\Non primitive data types\Non primitive data types\obj\Debug\Non primitive data types.exe
+D:\New folder (2)\Non primitive data types\Non primitive data types\obj\Debug\Non primitive data types.pdb

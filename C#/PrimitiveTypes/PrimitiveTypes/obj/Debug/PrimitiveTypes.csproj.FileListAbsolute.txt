@@ -1,0 +1,8 @@
+D:\New folder (2)\PrimitiveTypes\PrimitiveTypes\bin\Debug\PrimitiveTypes.exe.config
+D:\New folder (2)\PrimitiveTypes\PrimitiveTypes\bin\Debug\PrimitiveTypes.exe
+D:\New folder (2)\PrimitiveTypes\PrimitiveTypes\bin\Debug\PrimitiveTypes.pdb
+D:\New folder (2)\PrimitiveTypes\PrimitiveTypes\obj\Debug\PrimitiveTypes.csproj.AssemblyReference.cache
+D:\New folder (2)\PrimitiveTypes\PrimitiveTypes\obj\Debug\PrimitiveTypes.csproj.SuggestedBindingRedirects.cache
+D:\New folder (2)\PrimitiveTypes\PrimitiveTypes\obj\Debug\PrimitiveTypes.csproj.CoreCompileInputs.cache
+D:\New folder (2)\PrimitiveTypes\PrimitiveTypes\obj\Debug\PrimitiveTypes.exe
+D:\New folder (2)\PrimitiveTypes\PrimitiveTypes\obj\Debug\PrimitiveTypes.pdb
